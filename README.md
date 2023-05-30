@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KeYw0w</h1>
-<h3 align="center">A senior java developer from Russia</h3>
+<h3 align="center">A java developer from Russia</h3>
 
 ## 💬 Ask me about
 - Backend web development (Java)
