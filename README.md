@@ -7,9 +7,8 @@
 
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
+- Solve programming problems at Codeforces, LeetCode
 - Watch anime and TV shows
-- Read some manga
 - Play basketball
 
 
